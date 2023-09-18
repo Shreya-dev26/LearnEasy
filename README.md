@@ -12,6 +12,6 @@ To further enhance the learning journey, LearnEasy integrates an Education Chatb
 
 Our primary mission is to ensure that education is accessible to all, regardless of physical or cognitive differences. LearnEasy is committed to making education inclusive and empowering every individual to reach their full potential.
 
-
+Youtube link for demos of the code: https://www.youtube.com/playlist?list=PLlhXYgAcWfFvapAnC0RXpEsBEM9yTSPCC
 
 
